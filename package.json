@@ -1,0 +1,25 @@
+{
+  "name": "testdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.52.0",
+    "playwright": "^1.52.0"
+  },
+  "description": "1. Для установки зависиостей в Terminal ввести (без ковычек): `npm install`\r 2. Для запуска тестов в Terminal ввести (без ковычек): `npx playwright test`",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KovalenkoDmitry88/Testdemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KovalenkoDmitry88/Testdemo/issues"
+  },
+  "homepage": "https://github.com/KovalenkoDmitry88/Testdemo#readme",
+  "devDependencies": {}
+}
