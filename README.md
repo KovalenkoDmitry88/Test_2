@@ -1,7 +1,7 @@
 # Saucedemo Playwright Tests
 
 ## Setup
-1. Для установки зависиостей в Terminal ввести (без ковычек): `npm install`
+1. Для установки зависимостей в Terminal ввести (без ковычек): `npm install`
 2. Для запуска тестов в Terminal ввести (без ковычек): `npx playwright test`
 
 ## Состав тест-кейсов
