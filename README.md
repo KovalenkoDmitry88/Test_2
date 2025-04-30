@@ -1,5 +1,7 @@
 # Saucedemo Playwright Tests
 
+## Тестирование тестового сайта https://www.saucedemo.com
+
 ## Stack
 - JavaScript![JS](https://github.com/user-attachments/assets/cf27b5d8-6b22-487f-a0a0-91236bfacfa7)
 - Node.JS ![node-js-logo](https://github.com/user-attachments/assets/0482d063-01a1-42ca-b7f3-9713804745e2)
